@@ -21,6 +21,6 @@ Tailwind CSS From Scratch | Learn By Building Projects course by Brad Traversy
 6. Clipboard Website
 7. Loopstudios Website
 8. Shortly Website
-9. Testimonial Website
-10. Fylo Website
+9. Testimonial Website ✅✅✅
+10. Fylo Website ✅✅✅
 11. Bookmark Website
